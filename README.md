@@ -1,5 +1,5 @@
 Project Title
-Portfolio Optimization with VaR and CVaR Models
+Portfolio Optimization and VaR and CVaR Models
 
 Project Description
 Provide an overview of the project:
