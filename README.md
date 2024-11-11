@@ -22,5 +22,5 @@ Technologies and Tools
 List technologies and tools used:
 
 Programming Languages: Python
-Libraries: numpy, pandas, scipy, yfinance, MinMax scalar,
+Libraries: numpy, pandas, scipy, yfinance, MinMax scalar, plotly, matplot,
 Discuss how the model's success or accuracy was evaluated, and summarize any notable findings.
