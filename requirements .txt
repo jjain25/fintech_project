@@ -6,3 +6,4 @@ matplotlib.pyplot
 sklearn
 seaborn
 plotly.graph_objs
+keras
