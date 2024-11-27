@@ -3,3 +3,6 @@ math
 pandas 
 numpy
 matplotlib.pyplot
+sklearn
+seaborn
+
