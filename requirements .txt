@@ -1,0 +1,5 @@
+yfiance 
+math
+pandas 
+numpy
+matplotlib.pyplot
